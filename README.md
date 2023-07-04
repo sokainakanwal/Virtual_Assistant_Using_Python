@@ -1,0 +1,2 @@
+# Virtual_Assistant_Using_Python
+ Welcome to the Virtual Assistant project! This repository contains code for a fun and interactive Virtual Assistant built using Python. With voice recognition and text-to-speech capabilities, the assistant can perform various tasks like playing songs, providing the current time, and even answering relationship status questions with a touch of humor. It's a great project to explore the potential of voice-based AI assistants. Give it a try and enjoy the convenience and entertainment it brings! 🎤🤖
